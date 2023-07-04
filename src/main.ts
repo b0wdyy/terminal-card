@@ -5,6 +5,8 @@ import chalk from 'chalk';
 import fs from 'fs';
 import path from 'path';
 
+console.clear();
+
 const {
 	user_name: username,
 	job_title: jobTitle,
